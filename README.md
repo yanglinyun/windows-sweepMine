@@ -1,4 +1,6 @@
 # windows-sweepMine[网页仿windows扫雷]
+### 演示地址
+<a href="https://yanglinyun.github.io/windows-sweepMine/">https://yanglinyun.github.io/windows-sweepMine/</a>
 ### 原版UI
 <img src="./UI/1.jpeg">
 
